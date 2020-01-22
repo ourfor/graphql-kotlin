@@ -1,0 +1,9 @@
+src/main/resources/start.yml
+src/main/resources/application.yml
+src/main/resources/config.yml
+.DS_Store
+build/
+.idea
+.gradle
+out
+
